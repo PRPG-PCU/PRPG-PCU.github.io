@@ -14,3 +14,4 @@
 6. 캐릭터 이동 구현 50% -> 충돌 구현
 
 [![Week1](../../img/StartBG.jpg)](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week1/week1.mp4)
+![Week1](week1.mp4)
