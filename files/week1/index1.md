@@ -12,6 +12,4 @@
 5. 스토리 1차 구현 20% -> 전체틀 구현
 
 6. 캐릭터 이동 구현 50% -> 충돌 구현
-
-[![Week1](../../img/StartBG.jpg)](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week1/week1.mp4)
-![Week1](week1.mp4)
+![week1](https://user-images.githubusercontent.com/71679858/97938865-e3a5f880-1dc5-11eb-86d9-d2126007c7d1.gif)
