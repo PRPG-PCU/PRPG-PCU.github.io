@@ -21,7 +21,7 @@
 [9. 스토리보드](#스토리보드)<br>
 [10. 개발작업 일정(6주)](#개발작업-일정)<br>
 # 개발일지
-[1주차 개발일지]<https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week1/index1.md><br>
+[1주차 개발일지](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week1/index1.md)<br>
 
 # 게임명
 
