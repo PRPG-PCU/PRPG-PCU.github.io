@@ -21,10 +21,10 @@
 [9. 스토리보드](#스토리보드)<br>
 [10. 개발작업 일정(6주)](#개발작업-일정)<br>
 # 개발일지
-[1주차 개발일지](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week1/index1.md)<br>
-[2주차 개발일지](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week2/index2.md)<br>
-[3주차 개발일지](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week3/index3.md)<br>
-[4주차 개발일지](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week4/index4.md)<br>
+[1주차 개발일지](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week1/index.md)<br>
+[2주차 개발일지](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week2/index.md)<br>
+[3주차 개발일지](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week3/index.md)<br>
+[4주차 개발일지](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week4/index.md)<br>
 
 # 게임명
 
