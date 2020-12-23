@@ -11,15 +11,12 @@
 [c. 행동](#행동)<br>
 [d. 상태](#상태)<br>
 [e. 플레이어 캐릭터 속성(파라미터)](#플레이어-캐릭터-속성파라미터)<br>
-[f. 게임의 규칙](#게임의-규칙)<br>
-[g. 게임에서 사용될 공식](#게임에서-사용될-공식)<br>
 [8. 개발 요구사항 & 흐름도](#개발-요구사항-&-흐름도)<br>
 [a. 요구사항](#요구사항)<br>
 [b. 시간별 흐름도](#시간별-흐름도)<br>
 [c. 키보드 이벤트에 대한 흐름도](#키보드-이벤트에-대한-흐름도)<br>
 [d. 용어정리](#용어정리)<br>
-[9. 스토리보드](#스토리보드)<br>
-[10. 개발작업 일정(6주)](#개발작업-일정)<br>
+[9. 개발작업 일정(6주)](#개발작업-일정)<br>
 # 개발일지
 [1주차 개발일지](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week1/index.md)<br>
 [2주차 개발일지](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week2/index.md)<br>
@@ -383,17 +380,6 @@ Eternal Return
 |그로기|Groggy|한턴동안 아무런 행동도 할 수 없다.|
 |속도|Speed|배틀씬의 속도주사위를 보정한다.|
 
-
-<br><br>
-
-# 게임의 규칙
-
-
-<br><br>
-
-# 게임에서 사용될 공식
-
-
 <br><br>
 
 # 개발 요구사항 & 흐름도
@@ -461,9 +447,6 @@ Eternal Return
 <img src="./img/용어2.png">
 <img src="./img/용어3.png">
 <img src="./img/용어4.png">
-
-# 스토리보드
-
 
 # 개발작업 일정
 <img src="./img/개발일정6주차.png">
