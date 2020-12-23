@@ -27,7 +27,7 @@
 [4주차 개발일지](https://github.com/PRPG-PCU/PRPG-PCU.github.io/blob/master/files/week4/index.md)<br>
 
 # 게임명
-Eterner Return
+Eternal Return
 # 컨셉
 
 ## 메인컨셉 : 파트너
