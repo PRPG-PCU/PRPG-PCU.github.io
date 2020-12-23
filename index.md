@@ -449,7 +449,7 @@ Eternal Return
 <img src="./img/용어4.png">
 
 # 개발작업 일정
-<img src="./img/개발일정6주차.png">
+<img src="./img/일정.png">
 
 ## 1주차 개발일지
 
